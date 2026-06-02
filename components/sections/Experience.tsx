@@ -7,18 +7,32 @@ import { GraduationCap } from "lucide-react";
 
 const experiences = [
   {
-    type: "education",
-    icon: GraduationCap,
-    title: "B.Tech — Computer Science Engineering",
-    org: "Sister Nivedita University, Kolkata",
-    period: "2023 — Present",
-    color: "#00d4ff",
-    points: [
-      "Currently in 3rd year",
-      "Building strong fundamentals in programming and development",
-      "Actively working on projects and internships",
-    ],
-  },
+  type: "experience",
+  icon: GraduationCap,
+  title: "Trainee Intern — Digital Transformation Service Design",
+  org: "XPMC, employability.life",
+  period: "Nov 2025 — Mar 2026",
+  color: "#22c55e",
+  points: [
+    "Worked on digital transformation and service design initiatives",
+    "Applied structured problem-solving frameworks to business challenges",
+    "Contributed to user-centric workflow and solution design",
+    "Collaborated on research and process-mapping activities",
+  ],
+},
+  {
+  type: "education",
+  icon: GraduationCap,
+  title: "B.Tech — Computer Science Engineering",
+  org: "Sister Nivedita University, Kolkata",
+  period: "2023 — 2027",
+  color: "#00d4ff",
+  points: [
+    "Final Year Computer Science Engineering student",
+    "CGPA: 8.48",
+    "Focused on software development, machine learning, and full-stack applications",
+  ],
+},
   {
     type: "education",
     icon: GraduationCap,

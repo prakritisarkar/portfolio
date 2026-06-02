@@ -49,10 +49,9 @@ export default function Hero() {
           animate="show"
           className="font-display text-xl md:text-2xl lg:text-3xl text-slate-300 max-w-3xl mx-auto leading-snug mb-6 font-medium"
         >
-          I build{" "}
-          <span className="text-[#00d4ff]">scalable web applications</span> and{" "}
-          <span className="text-[#7c3aed]">intelligent systems</span> that solve
-          real-world problems.
+          Final-Year CSE Student building{" "}
+<span className="text-[#00d4ff]">full-stack applications</span> and{" "}
+<span className="text-[#7c3aed]">AI-powered solutions</span> for real-world problems.
         </motion.p>
 
         {/* Subtext */}
@@ -63,9 +62,7 @@ export default function Hero() {
           animate="show"
           className="text-slate-400 text-base md:text-lg max-w-2xl mx-auto leading-relaxed mb-12"
         >
-          Full-stack developer with experience in machine learning, Web3, and
-          data-driven systems. I focus on building products that are not just
-          functional — but impactful.
+          Final-year Computer Science Engineering student with experience in machine learning, full-stack development, blockchain applications, and digital transformation projects. I focus on building practical solutions that create real-world impact.
         </motion.p>
 
         {/* CTA Buttons */}
